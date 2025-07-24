@@ -1,3 +1,5 @@
+//Program to calculate Average of 3 numbers
+
 import java.util.*;
 
 public class average {

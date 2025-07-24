@@ -1,3 +1,5 @@
+//A guessing game where user has to guess the right number between 1 to 100
+
 import java.util.Scanner;
 
 public class Game {

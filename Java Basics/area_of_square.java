@@ -1,3 +1,5 @@
+//Program to calculate Area of Square
+
 import java.util.*;
 
 public class area_of_square {

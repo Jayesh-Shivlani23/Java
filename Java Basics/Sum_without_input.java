@@ -1,3 +1,5 @@
+//Sum of 2 numbers
+
 public class Sum_without_input {
     public static void main(String args[]) {
         int a = 10;

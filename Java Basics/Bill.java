@@ -1,3 +1,5 @@
+//Program to calculate bill with 18%GST
+
 import java.util.*;
 
 public class Bill {

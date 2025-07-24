@@ -1,3 +1,5 @@
+//Sum of 2 numbers by taking input from user
+
 import java.util.*;
 
 public class sum_with_input {

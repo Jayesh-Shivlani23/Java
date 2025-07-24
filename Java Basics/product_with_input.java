@@ -1,3 +1,5 @@
+//Product of 2 numbers by taking input from user
+
 import java.util.*;
 
 public class product_with_input {

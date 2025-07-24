@@ -1,3 +1,5 @@
+//Different Data types in Java
+
 public class Data_Types_in_Java {
     public static void main(String[] args) {
         // Primitive Data Types
